@@ -1,5 +1,5 @@
 ## Boas vindas ao meu perfil 😀
-Meu nome é Davi dos Reis Abranges, tenho 18 anos e estudo desenvolvimento web na Trybe.
+Meu nome é Davi dos Reis Abranges, tenho 18 anos e sou desenvolvedor front-end.
 
 
 
