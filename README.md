@@ -15,3 +15,5 @@ Meu nome é Davi dos Reis Abranges, tenho 18 anos e sou desenvolvedor front-end.
 
 <br>
 
+email para contato: daviabrabranges123@gmail.com 
+linkedin: DaviAbranges
